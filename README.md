@@ -1,4 +1,4 @@
-# hand2band-unsplash-gallery-recrutment-task
+# hand2band-unsplash-gallery-recruitment-task
 
 ## About
 
