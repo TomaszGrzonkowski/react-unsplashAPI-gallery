@@ -1,0 +1,13 @@
+.tag_wrapper {
+    background-color: lightgray;
+    text-align: center;
+    font-size: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 3px 6px;
+    cursor:pointer;
+
+    p::first-letter {
+        text-transform: uppercase;
+    }
+}
