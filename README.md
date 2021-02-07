@@ -1,6 +1,11 @@
 # hand2band-unsplash-gallery-recrutment-task
 
-In the project directory, you can run:
+![Home view](https://i.ibb.co/Hn5gHjk/koala.jpg)
+![Results view](https://i.ibb.co/LZLyyFt/zad.jpg)
+![Photo view](https://i.ibb.co/4d4rfN7/zad1.jpg)
+
+
+### In the project directory, you can run:
 
 ### `npm start`
 
