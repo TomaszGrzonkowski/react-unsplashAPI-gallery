@@ -1,4 +1,4 @@
-# hand2band-unsplash-gallery-recrutment-task
+# hand2band-unsplash-gallery-recruitment-task
 
 ## About
 
@@ -8,6 +8,7 @@ A simple search app using react( with hooks) , react router,, redux (just for fu
 ![Results view](https://i.ibb.co/LZLyyFt/zad.jpg)
 ![Photo view](https://i.ibb.co/4d4rfN7/zad1.jpg)
 
+#### run 'npm i' to install all dependencies and then:
 
 ### In the project directory, you can run:
 
