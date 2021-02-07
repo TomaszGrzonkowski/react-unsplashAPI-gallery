@@ -25,8 +25,6 @@ const SearchBar = ({ results }) => {
     setDropdownVisibility((prev) => !prev);
   };
 
-  console.log(dropdownVisibility);
-
   return (
     <div
       className={
